@@ -1,0 +1,28 @@
+{
+  "name": "arimagedoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasoonmayank/arimagedoc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prasoonmayank/arimagedoc/issues"
+  },
+  "homepage": "https://github.com/prasoonmayank/arimagedoc#readme",
+  "dependencies": {
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^4.0.2",
+    "webpack-dev-server": "^3.10.3"
+  }
+}
